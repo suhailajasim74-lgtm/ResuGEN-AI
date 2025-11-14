@@ -1,0 +1,1 @@
+AI-powered resume optimizer that parses PDF/DOCX resumes, extracts skills, analyzes job match using embeddings, and generates an ATS-friendly rewritten resume using OpenAI GPT models. Includes job similarity scoring, skill extraction, and DOCX output generation
