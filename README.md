@@ -1,4 +1,4 @@
-<h1>📄 <b>AI-Powered Resume Rebuilder & Job Match Analyzer</b></h1>
+<h1> <b>AI-Powered Resume Rebuilder & Job Match Analyzer</b></h1>
 
 <p>
 An end-to-end <b>Generative AI resume optimization system</b> that analyzes a candidate’s resume, extracts relevant skills, computes a job-match score, and generates a fully optimized, ATS-friendly DOCX resume using NLP, embeddings, and LLMs.
@@ -6,7 +6,7 @@ An end-to-end <b>Generative AI resume optimization system</b> that analyzes a ca
 
 <br>
 
-<h2>🚀 <b>Project Overview</b></h2>
+<h2> <b>Project Overview</b></h2>
 <p>
 This tool processes a <b>resume (PDF/DOCX)</b> and a <b>job description</b>, extracts skills, generates embeddings for similarity scoring, and rebuilds the resume using OpenAI GPT models.  
 It produces a <b>clean, professional, ATS-optimized DOCX resume</b> tailored to the job.
@@ -14,7 +14,7 @@ It produces a <b>clean, professional, ATS-optimized DOCX resume</b> tailored to 
 
 <br>
 
-<h2>🧠 <b>Key Features</b></h2>
+<h2> <b>Key Features</b></h2>
 
 <p><b>1. Resume Parsing</b><br>
 • Supports PDF and DOCX formats<br>
@@ -47,7 +47,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>🛠️ <b>Technologies Used</b></h2>
+<h2> <b>Technologies Used</b></h2>
 
 <p><b>Programming</b><br>
 • Python<br>
@@ -72,7 +72,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>📥 <b>Input Types</b></h2>
+<h2> <b>Input Types</b></h2>
 <p>
 • Resume File: <b>PDF / DOCX</b><br>
 • Job Description: <b>Plain text</b>
@@ -80,7 +80,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>📤 <b>Output Types</b></h2>
+<h2> <b>Output Types</b></h2>
 <p>
 • <b>Optimized ATS-friendly DOCX Resume</b><br>
 • <b>Extracted Skills List</b><br>
@@ -90,7 +90,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>📚 <b>Use Cases</b></h2>
+<h2> <b>Use Cases</b></h2>
 <p>
 • AI-based resume optimization<br>
 • Job application assistants<br>
@@ -101,7 +101,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>🏗️ <b>System Workflow</b></h2>
+<h2> <b>System Workflow</b></h2>
 <p>
 1. Upload resume<br>
 2. Text extracted (PDF/DOCX parsing)<br>
@@ -114,7 +114,7 @@ Upload Resume → Paste Job Description → Extract Skills → Compute Match Sco
 
 <br>
 
-<h2>🎯 <b>Goal</b></h2>
+<h2> <b>Goal</b></h2>
 <p>
 To enhance resume quality, improve ATS keyword alignment, increase job match scores, and enable fast, automated, job-specific resume generation.
 </p>
